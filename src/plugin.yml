@@ -1,0 +1,13 @@
+name: GeikOtoSat
+main: me.geik.auto.sell.rigel.Main
+version: 1.0
+author: Geik
+api-version: 1.13
+depend: [Vault]
+load: POSTWORLD
+commands:
+  selladmin:
+    description: cubuk verir.
+  sell:
+    description: oto satis komutudur.
+    aliases: [sat,otosat,os]

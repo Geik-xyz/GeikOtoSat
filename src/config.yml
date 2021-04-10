@@ -1,0 +1,81 @@
+debug: false
+vergi: 5
+cubuk:
+  0:
+    itemName: "&8&lİŞLEVSİZ &7Satış Çubuğu"
+    unBreakable: false
+    itemLore:
+    - "&7Çok &aaz &7miktarda eşya satışına"
+    - "&7imkan veren bir satış çubuğudur."
+    itemMaterial: WOODEN_HOE
+  1:
+    itemName: "&2&lBORSACI &9Satış Çubuğu"
+    unBreakable: false
+    itemLore:
+    - "&7Piyasada &ahatrı sayılır &7olan kişiye"
+    - "&7Bahşedilmiş bir satış çubuğudur."
+    itemMaterial: STONE_HOE
+  2:
+    itemName: "&e&lEKONOMI TANRISI &b&lÇubuğu"
+    unBreakable: true
+    itemLore:
+    - "&4Bu çubuğa sahip olan kişiler &kGeyik"
+    - "&4Tanrıların &kgüvenini&r&4 kazanmıştır."
+    itemMaterial: GOLDEN_HOE
+  3:
+    itemName: "&e&lKONT &aSatış Çubuğu"
+    unBreakable: false
+    itemLore:
+    - "&e&lKONT&7lara &b&lELYON &7vatandaşlarının"
+    - "&aHediye &7ettiği satış çubuğudur."
+    itemMaterial: IRON_HOE
+  4:
+    itemName: "&6&lVIP &bSatış Çubuğu"
+    unBreakable: false
+    itemLore:
+    - "&6&lVIP &7Satış çubuğu daha fazla"
+    - "&7Ürün satmanıza yarar."
+    itemMaterial: DIAMOND_HOE  
+fiyat:
+  - 'WHEAT:70.0'
+  - 'POTATO:60.0'
+  - 'CARROT:60.0'
+  - 'CACTUS:50.0'
+  - 'NETHER_WART:50.0'
+  - 'COCOA_BEANS:70.0'
+  - 'PUMPKIN:65.0'
+  - 'MELON_SLICE:30.0'
+  - 'SUGAR_CANE:50.0'
+  - 'KELP:60.0'
+  - 'EGG:30.0'
+  - 'COD:80.0'
+  - 'SALMON:80.0'
+  - 'PUFFERFISH:300.0'
+  - 'TROPICAL_FISH:60.0'
+  - 'SPIDER_EYE:13.0'
+  - 'ROTTEN_FLESH:13.0'
+  - 'GUNPOWDER:13.0'
+  - 'BONE:13.0'
+  - 'STRING:13.0'
+  - 'ENDER_PEARL:13.0'
+  - 'SPIDER_EYE:100.0'
+  - 'SLIME_BALL:20.0'
+  - 'ARROW:13.0'
+  - 'EMERALD:250.0'
+  - 'CHORUS_FRUIT:120.0'
+  - 'POPPED_CHORUS_FRUIT:120.0'
+  - 'COBBLESTONE:10.0'
+  - 'OAK_LOG:10.0'
+  - 'JUNGLE_LOG:10.0'
+  - 'SPRUCE_LOG:10.0'
+  - 'BIRCH_LOG:10.0'
+  - 'ACACIA_LOG:10.0'
+  - 'DARK_OAK_LOG:10.0'
+  - 'SNOWBALL:10.0'
+  - 'NAUTILUS_SHELL:2500.0'
+  - 'BROWN_MUSHROOM:60.0'
+  - 'RED_MUSHROOM:60.0'
+  - 'BEETROOT:70.0'
+  - 'GHAST_TEAR:70.0'
+  - 'STONE:12.0'
+  - 'COAL:5.0'
